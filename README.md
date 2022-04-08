@@ -1,3 +1,3 @@
-# RxSwift Practise
+# RxSwift Practice
 
 RxSwift 練習
